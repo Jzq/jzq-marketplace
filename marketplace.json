@@ -1,0 +1,25 @@
+{
+  "name": "jzq-marketplace",
+  "displayName": "Jzq Plugin Marketplace",
+  "description": "Claude Code plugins by jizhiqiang",
+  "owner": {
+    "name": "jizhiqiang"
+  },
+  "plugins": [
+    {
+      "name": "opsx-workflow",
+      "displayName": "OpsX Five-Phase Workflow",
+      "description": "Config-driven five-phase automated development workflow for Claude Code. Phase detection, operation guards, and dangerous command interception.",
+      "version": "2.0.0",
+      "source": {
+        "source": "github",
+        "repo": "Jzq/opsx-workflow"
+      },
+      "author": {
+        "name": "jizhiqiang"
+      },
+      "license": "MIT",
+      "keywords": ["phase-guard", "workflow", "hooks", "config-driven"]
+    }
+  ]
+}
