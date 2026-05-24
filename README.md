@@ -1,5 +1,7 @@
 # jzq-marketplace
 
+[中文文档](README-zh.md)
+
 Claude Code plugin marketplace by jizhiqiang.
 
 ## Usage
@@ -16,4 +18,4 @@ Claude Code plugin marketplace by jizhiqiang.
 
 | Plugin | Description |
 |--------|-------------|
-| opsx-workflow | Config-driven five-phase development workflow with phase detection, operation guards, and dangerous command interception |
+| [opsx-workflow](https://github.com/Jzq/opsx-workflow) | Config-driven five-phase development workflow with phase detection, operation guards, and dangerous command interception |
