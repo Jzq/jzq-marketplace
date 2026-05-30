@@ -10,12 +10,12 @@ Claude Code plugin marketplace by jizhiqiang.
 # Add this marketplace
 /plugin marketplace add Jzq/jzq-marketplace
 
-# Install opsx-workflow plugin
-/plugin install opsx-workflow@jzq-marketplace
+# Install jizhiqiang plugin
+/plugin install jizhiqiang@jzq-marketplace
 ```
 
 ## Plugins
 
 | Plugin | Description |
 |--------|-------------|
-| [opsx-workflow](https://github.com/Jzq/opsx-workflow) | Config-driven five-phase development workflow with phase detection, operation guards, and dangerous command interception |
+| [jizhiqiang](https://github.com/Jzq/opsx-workflow) | Config-driven five-phase development workflow with phase detection, operation guards, and dangerous command interception |
